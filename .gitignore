@@ -1,2 +1,4 @@
 day*/*.exe
 day*/*.txt
+*.exe
+*.txt
